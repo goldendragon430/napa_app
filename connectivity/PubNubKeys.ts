@@ -1,0 +1,2 @@
+export const PUBNUB_PUBLISH_KEY = 'pub-c-93863077-d547-4552-b382-b189da290466';
+export const PUBNUB_SUBSCRIBE_KEY = 'sub-c-f7cb780d-9951-407f-a85d-2ad454636a80';

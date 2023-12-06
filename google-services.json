@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "875528044100",
+    "project_id": "napa-society",
+    "storage_bucket": "napa-society.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875528044100:android:0faab86526b41f3b38c611",
+        "android_client_info": {
+          "package_name": "com.napamobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875528044100-p7oil325nlmho4fi0svadkrppld9h7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSzpW3Epc6AK1XuYRw86v8XwBJab_TKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875528044100-p7oil325nlmho4fi0svadkrppld9h7g7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875528044100-gcrf135s6cg9sreo7fkr9qu8afol1l0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.napasociety.napa-devapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
